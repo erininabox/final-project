@@ -75,10 +75,10 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 * **Build something you can really launch**, and recruit an actual user-base.
 * **Test** critical components of your code to ensure that it works.
 * Possible technologies to base a learning project around:
-  * **Disclaimer!** For many of these techs, you will be responsible for, and on your own for learning and integrating them into an application! Some of these technologies may be difficult and/or very involved. Your final project as a result will not be as polished of a portfolio piece as you would for a MERN stack application.
+  * **Disclaimer!** For many of these techs, you will be responsible for, and on your own for learning and integrating them into an application! Some of these technologies may be difficult and/or very involved. Your final project as a result will not be as polished of a portfolio piece as a MERN stack application would be.
   * [Vue.js](https://vuejs.org/) Alternative front-end framework to React
   * [Angular](https://angular.io/) Alternative front-end framework to React
-  * [Stripe](https://stripe.com/docs/api) Create a real e-commerce website by using the Stripe API is test mode!
+  * [Stripe](https://stripe.com/docs/api) Create a real e-commerce website by using the Stripe API in test mode!
   * [D3.js](https://d3js.org/) A Data visualization library
   * [Django](https://www.djangoproject.com/) To make an entire full-stack application in python using a single framework
   * [Flask](https://flask.palletsprojects.com/en/2.0.x/) To replace your express backend with a python server.
