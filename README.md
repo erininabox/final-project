@@ -1,6 +1,6 @@
 # <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 4 - Final Project
 
-**Read this entire document before writing a line of code.**
+**Please read this document in its entirety before starting on your project!**
 
 ## Contents
 
@@ -26,36 +26,42 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You will work on this project individually** See the [project planning deliverables](#project-planning-deliverables).
+**You will work on this project individually, but you may elect to work in groups.** See the [project planning deliverables](#project-planning-deliverables).
 
 ---
 
-## Big Goals
+## Goals
 
-###### What should I focus on?
+###### What are my options?
 
-* **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
-* **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
-* **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
-* **Make productive use of your time**, and balance responsibilities to make a complete, impressive-looking project.
-* **Focus on writing solid, real-world code** that is well-documented and DRY.
+There are multiple broad goals you can choose from. You need to pick a **minimum** of one or more goals from this list:
+
+#### Recommended Goals:
+
+* **Develop a MERN stack application** to solidify your knowledge around the technologies learned in class. (MongoDB Express React Node).
+
+* **Polished portfolio piece:** Showcase substantial work in an area of interest by creating a highly polished product will illustrate your skills, interests, and will be an anchor for your portfolio.
+
+
+#### Alternative Goals:
+* **Learn a new tech:** Create an application in a language or framework you have a strong interest in learning. (Python, Ruby on Rails, TypeScript, Django, etc.)
+* **Develop an ambitious project:** This MVP for this project could serve as the basis for a larger project post-cohort
+  * **Discover or invent an idea**, preferably one with some group of users that would jump at the chance to really use your product.
+  * **Design a product *you* want to build**, and choose _appropriate technologies_ to build it.
+  * **Pitch your idea** to your classmates and instructors, and incorporate their feedback.
 
 ---
 
 ## Technical Requirements
 
-###### What technologies will I be using?
-
 **Your app must meet the following technical requirements:**
 
-* **Use a database**, whether it's one we've covered in class or one you want to learn.
-* **Build a full-stack application** by making your own back-end and your own front-end.
-* **Create a complete product**, which most likely means multiple related resources and CRUD functionality for each.
 * **Create a focused product**. Know which features are essential to build for your MVP and which to set aside for later.
 * **Craft thoughtful user stories** that are significant enough to help you ensure a pleasing and logical user experience.
 * **Handle errors gracefully**, and provide useful feedback to users when errors or validation failures do occur.
+* **Focus on writing solid, real-world code** that is well-documented and DRY.
 * **Make a product that's impressive-looking**; up your design and style game to kick your portfolio up a notch.
-* **Deploy your application online** so it's publicly accessible.
+
 
 ---
 
@@ -88,7 +94,7 @@ Make sure it's **something you can accomplish in the limited time we have**, and
 
 ### Completed Project Deliverables
 
-* A **working full-stack application**, hosted somewhere on the internet.
+* A **working application**, hosted somewhere on the internet.
 * A **git repository hosted on Github**, with frequent commits dating back to the beginning of the project.
 * A **link to your hosted working app** in the URL section of your Github repo.
 * **A `README.md` file** with:
