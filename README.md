@@ -74,6 +74,24 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 * **Implement third-party log in** to allow users to access data from other services.
 * **Build something you can really launch**, and recruit an actual user-base.
 * **Test** critical components of your code to ensure that it works.
+* Possible technologies to base a learning project around:
+  * **Disclaimer!** For many of these techs, you will be responsible for, and on your own for learning and integrating them into an application! Some of these technologies may be difficult and/or very involved. Your final project as a result will not be as polished of a portfolio piece as you would for a MERN stack application.
+  * [Vue.js](https://vuejs.org/) Alternative front-end framework to React
+  * [Angular](https://angular.io/) Alternative front-end framework to React
+  * [Stripe](https://stripe.com/docs/api) Create a real e-commerce website by using the Stripe API is test mode!
+  * [D3.js](https://d3js.org/) A Data visualization library
+  * [Django](https://www.djangoproject.com/) To make an entire full-stack application in python using a single framework
+  * [Flask](https://flask.palletsprojects.com/en/2.0.x/) To replace your express backend with a python server.
+  * [Sequelize](https://sequelize.org/) Use SQL for your database using Sequelize rather than MongoDB
+  * [Mapbox](https://www.mapbox.com/) Create map-based interfaces
+  * Machine Learning with [Tensorflow](https://www.tensorflow.org/)
+  * Test-Driven Development with [Jest](https://jestjs.io/)
+  * The [Typescript](https://www.typescriptlang.org/) programming language
+  * CSS Frameworks such as [Bootstrap](https://getbootstrap.com/), [Material-UI](https://material-ui.com/)
+  * Machine Learning with [Tensorflow](https://www.tensorflow.org/)
+  * [React Native](https://reactnative.dev/) for React on mobile devices (Warning, very involved)
+
+🙌 This is an exciting opportunity to use your newly developed skills as a software engineer and **code to learn**. 🙌
 
 ---
 
