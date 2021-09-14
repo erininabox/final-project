@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 3 - Pro Tips
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Final Project - Pro Tips
 
 * **Don’t get too caught up in awesome features.** Simple is always better, and you can build something impressive that does one thing well.
 * **Design first.** Planning with user stories and wireframes before writing code means you won't get distracted changing your mind. You'll know what to build, and you can spend your time wisely by just building it.
