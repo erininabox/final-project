@@ -92,6 +92,7 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
   * [React Native](https://reactnative.dev/) for React on mobile devices (Warning, very involved)
   * Realtime data with web sockets using [socket.io](https://socket.io/)
   * [GraphQL](https://graphql.org/) An alternative paradigm to REST for creating APIs that provide data 
+  * [Ruby on Rails](https://rubyonrails.org/) A full-stack web framework using the Ruby language 
 
 🙌 This is an exciting opportunity to use your newly developed skills as a software engineer and **code to learn**. 🙌
 
@@ -133,11 +134,13 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 
 ###### When is the project due?
 
-* **Tuesday, March 2nd, 2021** - [Project planning deliverables](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Friday, September 17th, 2021** - Soft Pitch. Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
 
-* **4:00pm, Tuesday, March 9th, 2021** - Feature Freeze
+* **Monday, September 20th, 2021** - [Project planning deliverables Hard Pitch](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
-* **9:30am, Wednesday, March 10th, 2021** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
+* **4:00pm, Friday, March 24th, 2021** - Feature Freeze
+
+* **9:30am, Monday, September 27th, 2021** - [Completed project deliverables](#completed-project-deliverables) due and presentations!
 
 ---
 
@@ -154,7 +157,7 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 
 ###### What should I cover during my presentation?
 
-Project 4 presentations will start at **9:30am** on **Wednesday, March 10th, 2021**. Each presentation should be **10 minutes or less** and cover the following:
+Project 4 presentations will start at **9:30am** on **Monday, September 27th, 2021**. Each presentation should be **15 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * App summary
