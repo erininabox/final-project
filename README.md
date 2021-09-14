@@ -5,14 +5,13 @@
 ## Contents
 
 * **[Overview](#overview):** What is this project?
-* **[Big Goals](#big-goals):** What should I focus on?
+* **[Big Goals](#goals):** What should I focus on?
 * **[Technical Requirements](#technical-requirements):** What technologies will I be using?
 * **[Further Exploration](#further-exploration):** What if I want to do more?
 * **[Planning & Deliverables](#planning--deliverables):** What will I be turning in?
 * **[Deadlines](#deadlines):** When is the project due?
 * **[Submission](#submission):** How do I turn in the project?
 * **[Presentation Guidelines](#presentation-guidelines):** What should I cover during my presentation?
-* **[Project Feedback](#project-feedback):** How will I get feedback from instructors?
 
 ---
 
@@ -26,7 +25,7 @@
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You will work on this project individually, but you may elect to work in groups.** See the [project planning deliverables](#project-planning-deliverables).
+**You will work on this project individually, but you may elect to work in groups.** See the [project planning deliverables](#planning--deliverables).
 
 ---
 
@@ -143,9 +142,9 @@ Come up with **three project ideas** and answer the following questions for each
 
 ###### When is the project due?
 
-* **Friday, September 17th, 2021** - Soft Pitch. Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
+* **Friday, September 17th, 2021** - [Project planning deliverables Soft Pitch](#project-planning-soft-pitch-deliverables) due! Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
 
-* **Monday, September 20th, 2021** - [Project planning deliverables Hard Pitch](#project-planning-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Monday, September 20th, 2021** - [Project planning deliverables Hard Pitch](#project-planning-hard-pitch-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
 * **4:00pm, Friday, March 24th, 2021** - Feature Freeze
 
