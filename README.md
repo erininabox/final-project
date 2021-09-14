@@ -90,6 +90,8 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
   * CSS Frameworks such as [Bootstrap](https://getbootstrap.com/), [Material-UI](https://material-ui.com/)
   * Machine Learning with [Tensorflow](https://www.tensorflow.org/)
   * [React Native](https://reactnative.dev/) for React on mobile devices (Warning, very involved)
+  * Realtime data with web sockets using [socket.io](https://socket.io/)
+  * [GraphQL](https://graphql.org/) An alternative paradigm to REST for creating APIs that provide data 
 
 🙌 This is an exciting opportunity to use your newly developed skills as a software engineer and **code to learn**. 🙌
 
