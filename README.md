@@ -39,6 +39,8 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 
 * **Develop a MERN stack application** to solidify your knowledge around the technologies learned in class. (MongoDB Express React Node).
 
+* **Develop a MEN stack application** to solidify your knowledge around the technologies learned in class. (MongoDB Express Node w/ EJS templates).
+
 * **Polished portfolio piece:** Showcase substantial work in an area of interest by creating a highly polished product will illustrate your skills, interests, and will be an anchor for your portfolio.
 
 
