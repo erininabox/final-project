@@ -102,9 +102,18 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 
 ###### What will I be turning in?
 
-### Project Planning Deliverables
+### Project Planning Soft Pitch Deliverables
+Spend time either solo or with your team researching and exploring ideas and technologies.
 
-**You should review the following with your instructional team BEFORE you start to code.**
+Come up with **three project ideas** and answer the following questions for each of them:
+
+1. What is your goal for this project? Please select one or more goals from the [project goals list](#goals)!
+2. Who is the user for your app and how will they use your application? Prepare some user stories!
+3. Are you incorporating any bonus technologies or APIs? If so, how do you plan on learning/implementing these techs?
+
+### Project Planning Hard Pitch Deliverables
+
+**You should review the following with your instructional team BEFORE you start to code. For your Hard Pitch, you will need to present all of the following documentation.**
 
 * **Scope:** What are you planning to build? What do you reasonably think you can implement in the time period?
 * **User Stories:** Who is your user? What features will your app have? Set up your project and user stories in <a href="https://trello.com" target="_blank">Trello</a>.
