@@ -19,13 +19,13 @@
 
 ###### What is this project?
 
-**You’ve come a long way, and it's time to show it.** This will be your most advanced project to date, and it'll hopefully be the shining beacon of bragging rights for your portfolio as you make your way out into the world of web development.
+**You’ve come a long way, and it's time to show off your skills!** This will be your most advanced project to date, and it will most likely be the shining beacon of bragging rights for your portfolio thus far.
 
 **You get to call the shots and invent your own idea**, choosing a framework and tools that are appropriate for what you want to build. Use everything you've learned so far, and **tackle something that'll push you a little outside of your comfort zone**.
 
 Make sure it's **something you can accomplish in the limited time we have**, and make sure it's **something that will be visually impressive**.
 
-**You will work on this project individually, but you may elect to work in groups.** See the [project planning deliverables](#planning--deliverables).
+**You can work on this project individually, but you may elect to work in groups.** See the [project planning deliverables](#planning--deliverables).
 
 ---
 
