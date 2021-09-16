@@ -144,9 +144,9 @@ Come up with **three project ideas** and answer the following questions for each
 
 ###### When is the project due?
 
-* **Friday, September 17th, 2021** - [Project planning deliverables Soft Pitch](#project-planning-soft-pitch-deliverables) due! Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
+* **Friday, September 17th, 2021 - By Mid-day** - [Project planning deliverables Soft Pitch](#project-planning-soft-pitch-deliverables) due! Clear your idea by presenting your preliminary planning materials and app idea to the instructors!
 
-* **Monday, September 20th, 2021** - [Project planning deliverables Hard Pitch](#project-planning-hard-pitch-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
+* **Monday, September 20th, 2021 - Morning** - [Project planning deliverables Hard Pitch](#project-planning-hard-pitch-deliverables) due! Before beginning work on your project, your idea, project scope, and other planning deliverables must be approved by an instructor.
 
 * **4:00pm, Friday, March 24th, 2021** - Feature Freeze
 
