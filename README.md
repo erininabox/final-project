@@ -127,9 +127,8 @@ Come up with **three project ideas** and answer the following questions for each
 
 ### Completed Project Deliverables
 
-* A **working application**, hosted somewhere on the internet.
+* A **working application that satisfies a user's need - a minimum viable product**
 * A **git repository hosted on Github**, with frequent commits dating back to the beginning of the project.
-* A **link to your hosted working app** in the URL section of your Github repo.
 * **A `README.md` file** with:
   * A **link to your hosted working app**.
   * A paragraph-long **description** (elevator pitch) of your project.
