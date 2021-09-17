@@ -70,6 +70,8 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 
 ###### What if I want to do more?
 
+* **Allow users to upload images from their desktop to your app** using a library like [Uploadcare](https://uploadcare.com/) 
+* **Add additional models** to allow your application to handle more complex data needs.
 * **Incorporate an external API** to add data and functionality to your application.
 * **Use a data visualization library** to help users understand your core data.
 * **Implement third-party log in** to allow users to access data from other services.
