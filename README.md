@@ -87,7 +87,6 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
   * [Flask](https://flask.palletsprojects.com/en/2.0.x/) To replace your express backend with a python server.
   * [Sequelize](https://sequelize.org/) Use SQL for your database using Sequelize rather than MongoDB
   * [Mapbox](https://www.mapbox.com/) Create map-based interfaces
-  * Machine Learning with [Tensorflow](https://www.tensorflow.org/)
   * Test-Driven Development with [Jest](https://jestjs.io/)
   * The [Typescript](https://www.typescriptlang.org/) programming language
   * CSS Frameworks such as [Bootstrap](https://getbootstrap.com/), [Material-UI](https://material-ui.com/)
@@ -105,7 +104,7 @@ There are multiple broad goals you can choose from. You need to pick a **minimum
 
 ###### What will I be turning in?
 
-### Project Planning Soft Pitch Deliverables
+## Project Planning Soft Pitch Deliverables
 Spend time either solo or with your team researching and exploring ideas and technologies.
 
 Come up with **three project ideas** and answer the following questions for each of them:
@@ -114,7 +113,9 @@ Come up with **three project ideas** and answer the following questions for each
 2. Who is the user for your app and how will they use your application? Prepare some user stories!
 3. Are you incorporating any bonus technologies or APIs? If so, how do you plan on learning/implementing these techs?
 
-### Project Planning Hard Pitch Deliverables
+---
+
+## Project Planning Hard Pitch Deliverables
 
 **You should review the following with your instructional team BEFORE you start to code. For your Hard Pitch, you will need to present all of the following documentation.**
 
@@ -131,7 +132,16 @@ Come up with **three project ideas** and answer the following questions for each
 **Optional**
 * **Milestones:** Divide your work into parts - the most essential features for your MVP, features that are important but not essential, and features that can be saved for a later iteration. Create 3-5 major milestones with dates outlining when you expect essential features will be done.
 
-### Completed Project Deliverables
+<details>
+  <summary>When planning and throughout the development process remember to break the work into manageable chunks. Start small and focus implementing one feature at a time.</summary>
+
+  ![a plan of how to build a product successfully](./images/remember-the-skateboard.png)
+
+</details>
+
+---
+
+## Completed Project Deliverables
 
 * A **working application that satisfies a user's need - a minimum viable product**
 * A **git repository hosted on Github**, with frequent commits dating back to the beginning of the project.
