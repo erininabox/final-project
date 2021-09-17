@@ -1,4 +1,4 @@
-# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Project 4 - Final Project
+# <img src="https://cloud.githubusercontent.com/assets/7833470/10899314/63829980-8188-11e5-8cdd-4ded5bcb6e36.png" height="60"> Final Project
 
 **Please read this document in its entirety before starting on your project!**
 
@@ -168,7 +168,7 @@ Come up with **three project ideas** and answer the following questions for each
 
 ###### What should I cover during my presentation?
 
-Project 4 presentations will start at **9:30am** on **Monday, September 27th, 2021**. Each presentation should be **15 minutes or less** and cover the following:
+Project presentations will start at **9:30am** on **Monday, September 27th, 2021**. Each presentation should be **15 minutes or less** and cover the following:
 
 * What was your motivation to build this project?
 * App summary
