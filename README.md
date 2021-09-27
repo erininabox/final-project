@@ -1,6 +1,6 @@
 # Bookward
 
-**Bookward** is an app that allows K-12 school librarians to manage class sets of books. In it's MVP version, this will feature the ability to see the catalog of class set books (these would be all those novels you read as a class, usually with your English teacher). Librarians will be able to select a set and check it out to a specific teacher, including a quantity of books taken and the quantity returned. 
+**Bookward** is an app that allows K-12 school librarians to manage class sets of books. In it's MVP version, this will feature the ability to see the catalog of a class set books (these would be all those novels you read as a class, usually with your English teacher). Librarians will be able to select a set and check it out to a specific teacher, including a quantity of books taken and the quantity returned. 
 
 **In future expansion**, the librarian will be able to run reports showing how many items in each class set have been "lost" and need to be replaced. Librarians will also be able to support teachers with checking out individual items to individual students. In the future, this app should also be able to "reserve" a class set for a teacher for a specific number of weeks in order to help teachers better coordinate their units. As these functionalities expand, it is likely that users would like to be able to generate reports based on a variety of criteria in order to manage the flow of books into and out of the school library. Users may at this point also want to be able to grant teachers access to this system in order to manage their class set reservations and browse the class set catalog. This will require establishing two different roles attached to authentication, showing additional views based on the role of the user.
 
@@ -24,7 +24,7 @@
 * [Wordoid] (https://wordoid.com/) - Generates nonsense words which were really helpful for creating a project name
 
 ### For implementation:
-* MongoDB
+* MongoDB (Refactored from SQL & Sequelize)
 * Mongoose
 * Express
 * Node.js
@@ -57,3 +57,10 @@ This is the first iteration of the Entity Relationship Diagram. As this is built
     [] 'Show' route
 [] Implement hooks
 [] error 400 due to logo size
+
+## Future things
+[] Upload care for cover images
+[] auth0
+[] icons/footer
+[] CK Editor for text editing of descriptions
+[] 
